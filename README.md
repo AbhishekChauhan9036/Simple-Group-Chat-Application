@@ -1,2 +1,2 @@
 # Simple-Group-Chat-Application
-Tech Stack- Html,Node & Express
+Tech Stack- Html ,Node & Express
